@@ -1,4 +1,4 @@
-# 21test-01
-## Entornos de desarrollo 
-esto es una _cursiva_ ye sto es negrita **asi**
-![](http://cuatrov1-cp5028.wordpresstemporal.com/wp-content/uploads/2019/07/logo-cuatrovientos-2-1.png)
+# lucia carolina
+## crispino 
+clase entornos_cursiva_de desarrllo **asi**
+![](https://i.pinimg.com/originals/9b/f0/6c/9bf06cdbd1ca68159222550f7803d254.jpg)
